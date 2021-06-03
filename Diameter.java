@@ -1,6 +1,5 @@
 package my_algo2;
 
-//308361476
 
 import java.util.ArrayList;
 import java.util.Arrays;
